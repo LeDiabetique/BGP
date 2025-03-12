@@ -1,12 +1,7 @@
-FAIRE
-"""
 vtysh
 conf t
-"""
 
-COPY PASTE
-"""
-hostname routeur_luhumber-1
+hostname routeur_hdiot-1
 no ipv6 forwarding
 !
 interface eth0
@@ -37,4 +32,3 @@ router ospf
 !
 line vty
 !
-"""
