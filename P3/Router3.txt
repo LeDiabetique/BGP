@@ -21,6 +21,7 @@ router bgp 1
  exit-address-family
 !
 router ospf
+!
 
 
 
