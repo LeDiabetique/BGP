@@ -1,8 +1,0 @@
-Host 1:
-ip addr add 20.1.1.1/24 dev eth1
-
-
-Host 3:
-ip addr add 20.1.1.2/24 dev eth0
-
-
